@@ -1,53 +1,22 @@
-### Furqan Ahmad
-#### Software Engineer & AI Enthusiast 
-
-Hey 👋, I'm Furqan Ahmad, a full stack software engineer with a passion for building high-quality, scalable applications. 
-
-Over the years, I have gained extensive experience in developing complex web applications, from designing and implementing robust architectures to optimizing performance and ensuring security.
-
-In addition to my technical skills, I am a collaborative team player who thrives in fast-paced environments. I enjoy working closely with other developers, stakeholders, and product owners to achieve project goals and deliverables.
-
-If you have any questions or would like to connect, please feel free to reach out to me.
-
-### **Reach out to me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furqan-ahmad-903278271)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@furqanahmad9933)
+# 💫 About Me:
+Software Engineer & AI Enthusiast<br>Hey 👋, I'm Furqan Ahmad, a full stack software engineer with a passion for building high-quality, scalable applications.<br><br>Over the years, I have gained extensive experience in developing complex web applications, from designing and implementing robust architectures to optimizing performance and ensuring security.<br><br>In addition to my technical skills, I am a collaborative team player who thrives in fast-paced environments. I enjoy working closely with other developers, stakeholders, and product owners to achieve project goals and deliverables.<br><br>If you have any questions or would like to connect, please feel free to reach out to me.
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/furqan-ahmad-903278271/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@furqanahmad9933) 
 
-### **Technical Skills**
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FurqanAhmd755181&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FurqanAhmd755181&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FurqanAhmd755181&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![React JS](https://img.shields.io/badge/-React_JS-blue?logo=react)
-![React Query](https://img.shields.io/badge/-React_Query-yellow?logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+---
+[![](https://visitcount.itsvg.in/api?id=FurqanAhmd755181&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)
-![AWS Serverless](https://img.shields.io/badge/-AWS_Serverless-orange?logo=amazon-aws)
-![Elastic stack](https://img.shields.io/badge/-Elasticsearch-blue?logo=elasticsearch)
-![Node JS](https://img.shields.io/badge/-Node_JS-green?logo=node.js)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![Django](https://img.shields.io/badge/-Django-green?logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-pink?logo=graphql)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/furqanahmad686) 
 
-![GitLab](https://img.shields.io/badge/-GitLab-yellow?logo=gitlab)
-![CI](https://img.shields.io/badge/-CI-yellowgreen?logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
-![Circle CI](https://img.shields.io/badge/-Circle_CI-black?logo=circleci)
-![Open API](https://img.shields.io/badge/-Open_API-orange?logo=openapi-initiative)
-![REST](https://img.shields.io/badge/-REST-lightgrey?logo=rest)
-![WebPack](https://img.shields.io/badge/-Webpack-blue?logo=webpack)
-![Gulp](https://img.shields.io/badge/-Gulp-red?logo=gulp)
-![Grunt](https://img.shields.io/badge/-Grunt-yellowgreen?logo=grunt)
-![Rollup](https://img.shields.io/badge/-Rollup-blueviolet?logo=rollup.js)
-
-![Unit Testing](https://img.shields.io/badge/-Unit_Testing-blue)
-![Integration Testing](https://img.shields.io/badge/-Integration_Testing-blueviolet)
-![E2E Testing](https://img.shields.io/badge/-E2E_Testing-brightgreen)
-![TDD](https://img.shields.io/badge/-TDD-red)
-![BDD](https://img.shields.io/badge/-BDD-yellowgreen)
-![DDD](https://img.shields.io/badge/-DDD-blue)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
